@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masaikk
 - 👀 I’m interested in Nodejs and Machine Learning
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on WASM project
+- 💞️ I’m looking to collaborate on NextJs and NestJs project
 - 📫 How to reach me mosaicyy@gmail.com
 
 <!---
